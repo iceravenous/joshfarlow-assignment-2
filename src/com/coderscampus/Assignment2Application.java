@@ -64,7 +64,6 @@ public class Assignment2Application {
 		
 		if (correctNumber == true) {
 			System.out.println("You win!");
-			System.out.println("The number to guess was: " + theRandomNumber);
 		}
 		else {
 			System.out.println("You lose!");
